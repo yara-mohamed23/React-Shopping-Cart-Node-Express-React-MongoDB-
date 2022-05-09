@@ -1,10 +1,11 @@
 import React from "react";
 import "../../css/Footer/Footer.css";
+import {words} from "../../staticFile"
 
 function Footer() {
   return(
     <footer>
-        &copy; Copyright Yara Mohamed 2022
+        {words.footerTitle}
     </footer>
   )
 }

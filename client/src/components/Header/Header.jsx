@@ -1,9 +1,11 @@
 import React from "react";
 import "../../css/Header/Header.css";
-
+import {words} from "../../staticFile"
 function Header() {
   return(
-  <header>Shopping card</header>
+  <header>
+    {words.headerTitle}
+  </header>
   )
 }
 

@@ -1,0 +1,36 @@
+[{
+        "id": "id1",
+        "title": "product 1",
+        "imageUrl": "https://images.unsplash.com/photo-1650821108375-67fbb5cf6b4a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIyfF9oYi1kbDRRLTRVfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "desc": "This is product 1",
+        "price": 23,
+        "size": ["S", "M"]
+    },
+
+    {
+        "id": "id2",
+        "title": "product 1",
+        "imageUrl": "https://images.unsplash.com/photo-1650821108375-67fbb5cf6b4a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIyfF9oYi1kbDRRLTRVfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "desc": "This is product 2",
+        "price": 23,
+        "size": ["XL", "L"]
+    },
+
+    {
+        "id": "id3",
+        "title": "product 3",
+        "imageUrl": "https://images.unsplash.com/photo-1650821108375-67fbb5cf6b4a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIyfF9oYi1kbDRRLTRVfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "desc": "This is product 1",
+        "price": 23,
+        "size": ["S", "M", "L"]
+    },
+
+    {
+        "id": "id4",
+        "title": "product 4",
+        "imageUrl": "https://images.unsplash.com/photo-1650821108375-67fbb5cf6b4a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIyfF9oYi1kbDRRLTRVfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "desc": "This is product 1",
+        "price": 23,
+        "size": ["S", "M"]
+    }
+]
