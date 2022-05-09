@@ -21,12 +21,3 @@
 main {
     grid-area: main;
 }
-
-footer {
-    grid-area: footer;
-    background-color: rgb(13, 79, 137);
-    color: aliceblue;
-    padding: 10px;
-    text-align: center;
-    font-size: 20px;
-}

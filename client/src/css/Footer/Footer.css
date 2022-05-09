@@ -1,0 +1,8 @@
+footer {
+  grid-area: footer;
+  background-color: rgb(144, 89, 23);
+  color: aliceblue;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+}
