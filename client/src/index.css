@@ -21,3 +21,16 @@
 main {
     grid-area: main;
 }
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper .products-wrapper {
+    width: 68%;
+}
+
+.wrapper .filter-wrapper {
+    width: 30%;
+}
