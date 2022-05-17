@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import "../../css/Products/Products.css"
 import ProductModal from '../../css/Products/ProductModal';
  function Products(props) {
-     console.log(props);
+     //console.log(props);
 
 const [product, setProduct] = useState("");
 
