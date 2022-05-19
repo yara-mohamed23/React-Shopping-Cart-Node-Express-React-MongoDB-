@@ -7,6 +7,15 @@
   margin-bottom: 5px;
   border: 1px solid rgb(0, 0, 0);
 }
+.cart-wrapper .cart-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0;
+}
+.cart-wrapper .cart-footer .total {
+  font-size: 25px;
+}
 
 .cart-item {
   display: flex;
@@ -26,11 +35,13 @@
   align-items: center;
   flex: 1;
 }
-.cart-item .cart-info button {
+
+button {
   display: inline-block;
   border: 0;
   background: rgb(13, 79, 137);
   color: aliceblue;
   padding: 7px;
   border-radius: 7px;
+  cursor: pointer;
 }
